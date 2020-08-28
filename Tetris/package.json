@@ -1,0 +1,25 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "网页版的俄罗斯方块",
+  "main": "wsServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaoLIWU/websocket-nodejs.git"
+  },
+  "keywords": [
+    "websocket+nodejs"
+  ],
+  "author": "小吴",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaoLIWU/websocket-nodejs/issues"
+  },
+  "homepage": "https://github.com/HaoLIWU/websocket-nodejs#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
